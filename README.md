@@ -32,4 +32,4 @@ python3 main.py
 
 ## Credits
 
-*This project was inspired by the "Build Your Own Lisp" book, where the initial chapters focus on building an interpreter before delving into compiler construction.*
+*This project was inspired by the "Build Your Own compiler by Build your own X" book, where the initial chapters focus on building an interpreter before delving into compiler construction.*
